@@ -10,5 +10,8 @@ package com.coursera.javacourse;
  * @author anderson
  */
 public class MapViewApp {
+
+    public MapViewApp() {
+    }
     
 }
