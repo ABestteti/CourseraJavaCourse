@@ -11,9 +11,13 @@ package com.coursera.javacourse;
  */
 public class MapViewApp {
 
-    String appName;
+    String version = "MapViewApp Vrs 1.0.00";
     
     public MapViewApp() {
+    }
+    
+    public String version() {
+        return version;
     }
     
 }
