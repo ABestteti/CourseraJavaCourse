@@ -11,6 +11,8 @@ package com.coursera.javacourse;
  */
 public class MapViewApp {
 
+    String appName;
+    
     public MapViewApp() {
     }
     
